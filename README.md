@@ -2,6 +2,10 @@
 
 Welcome to my workshop where I present the resources which I used to study Python and create a simple Django web app.
 
+The Watch Presentation:
+https://www.canva.com/design/DAEFuo6P3A8/1DEbcr6It_MohTO1JZ-4SA/view?utm_content=DAEFuo6P3A8&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+
 # Learn the Basics
 
     Hello, World!
@@ -66,6 +70,8 @@ $ sudo apt-get install python3.8 python3-pip
 Once the installation is complete, you can run Python 3.8 with the python3.8 command and pip with the pip3 command.
 
 
+Install Django:
+
 $ sudo apt install python3-django
 
 
@@ -98,11 +104,13 @@ Django is a high-level Python framework designed for rapid, secure, and scalable
 https://code.visualstudio.com/docs/python/tutorial-django
 
 
-# Django: The Web framework for perfectionists with deadlines
+# Django Web framework 
+
 
 How to install Django:
 
 https://docs.djangoproject.com/en/3.1/topics/install/
+
 
 Django poll app tutorial:
 
@@ -126,8 +134,6 @@ How to create a simple Django web app with Python:
 Example: https://github.com/victoriasof/django-blog
 
 
-django-secrets helps you to not commit your secrets to a repo:
-
-https://pypi.org/project/django-secrets/
+django-secrets helps you to not commit your secrets to a repo: https://pypi.org/project/django-secrets/
 
 
