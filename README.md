@@ -8,6 +8,8 @@ https://www.canva.com/design/DAEFuo6P3A8/1DEbcr6It_MohTO1JZ-4SA/view?utm_content
 
 # Learn the Basics
 
+Python is a very simple language, and has a very straightforward syntax. Run through this introductory tutorial:
+
     Hello, World!
     Variables and Types
     Lists
@@ -23,6 +25,7 @@ https://www.canva.com/design/DAEFuo6P3A8/1DEbcr6It_MohTO1JZ-4SA/view?utm_content
 
 https://www.learnpython.org/
 
+
 # Jupyter Notebook
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
@@ -31,6 +34,7 @@ Install Jupyter: https://jupyter.org/install
 
 Run Jupyter: https://jupyter.readthedocs.io/en/latest/running.html#running
 
+
 # Edabit 
 
 Practice Python coding with fun, bite-sized challenges:
@@ -38,6 +42,7 @@ Practice Python coding with fun, bite-sized challenges:
 Easy exercises: https://edabit.com/challenges/python3
 
 Examples: https://github.com/victoriasof/python-jupyter-edabit
+
 
 # Codility 
 
@@ -117,7 +122,7 @@ Django poll app tutorial:
 https://docs.djangoproject.com/en/3.1/intro/tutorial01/
 
 
-How to create a simple Django web app with Python:
+# How to create a simple Django web app with Python:
 
     1. use django-admin to create project -> django-admin startproject myproject
     2. create app -> python3 manage.py startapp blog
