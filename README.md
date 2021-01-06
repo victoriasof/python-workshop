@@ -1,6 +1,21 @@
 # python-workshop
 
-Learn the Basics: https://www.learnpython.org/
+# Learn the Basics
+
+    Hello, World!
+    Variables and Types
+    Lists
+    Basic Operators
+    String Formatting
+    Basic String Operations
+    Conditions
+    Loops
+    Functions
+    Classes and Objects
+    Dictionaries
+    Modules and Packages
+
+https://www.learnpython.org/
 
 # Jupyter Notebook
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
