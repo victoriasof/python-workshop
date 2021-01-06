@@ -37,7 +37,7 @@ Examples: https://github.com/victoriasof/python-jupyter-edabit
 
 # Codility 
 
-Codility is a software platform that helps technical recruiters run remote interviews.Develop your coding skills with hands-on programming lessons:
+Codility is a software platform that helps technical recruiters run remote interviews. Develop your coding skills with hands-on programming lessons:
 
 Difficult exercises: https://app.codility.com/programmers/lessons/1-iterations/
 
