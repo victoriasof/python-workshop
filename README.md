@@ -138,6 +138,16 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial01/
 
 Example: https://github.com/victoriasof/django-blog
 
+Useful links:
+
+Template inheritance: https://docs.djangoproject.com/en/3.1/ref/templates/language/
+
+HTTP Response: https://docs.djangoproject.com/en/3.1/ref/request-response/
+
+{% csrf_token %} : https://docs.djangoproject.com/en/3.1/ref/csrf/
+
+Download bootstrap CSS and JS: https://getbootstrap.com/docs/4.5/getting-started/download/
+
 
 django-secrets helps you to not commit your secrets to a repo: https://pypi.org/project/django-secrets/
 
