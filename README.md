@@ -108,7 +108,7 @@ Getting Started with Python in VS Code:
 By using the Python extension, you make VS Code into a great lightweight Python IDE (which you may find a productive alternative to PyCharm).
 
 
-Create a Python Hello World source code file
+Create a Python Hello World source code file:
 
 https://code.visualstudio.com/docs/python/python-tutorial?fbclid=IwAR0BcDnl7fFKbkbme8E5NEeN-03jWnogQcyVVbCYvdhWm6aOaZqO0bJWuDA
 
