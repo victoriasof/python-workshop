@@ -26,7 +26,7 @@ Python is a very simple language, and has a very straightforward syntax. Run thr
 https://www.learnpython.org/
 
 
-##Python Data Types
+## Python Data Types
 
 https://www.w3schools.com/python/python_datatypes.asp
 
@@ -46,7 +46,7 @@ Install Jupyter: https://jupyter.org/install
 Run Jupyter: https://jupyter.readthedocs.io/en/latest/running.html#running
 
 
-# Edabit 
+## Edabit 
 
 Practice Python coding with fun, bite-sized challenges:
 
@@ -55,7 +55,7 @@ Easy exercises: https://edabit.com/challenges/python3
 Examples: https://github.com/victoriasof/python-jupyter-edabit
 
 
-# Codility 
+## Codility 
 
 Codility is a software platform that helps technical recruiters run remote interviews. Develop your coding skills with hands-on programming lessons:
 
@@ -129,7 +129,7 @@ Django poll app tutorial:
 https://docs.djangoproject.com/en/3.1/intro/tutorial01/
 
 
-# Basic steps to create a simple Django blog with Python:
+## Basic steps to create a simple Django blog with Python:
 
     1. use django-admin to create project -> django-admin startproject myproject
     2. create app -> python3 manage.py startapp blog
