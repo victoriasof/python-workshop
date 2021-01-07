@@ -100,7 +100,7 @@ Once the installation is complete, you can run Python 3.8 with the python3.8 com
 
 # Install Visual Studio Code 
 
-Install Visual Studio Code via Ubuntu Software
+Install Visual Studio Code via Ubuntu Software.
 
 
 Getting Started with Python in VS Code: 
