@@ -26,7 +26,11 @@ Python is a very simple language, and has a very straightforward syntax. Run thr
 https://www.learnpython.org/
 
 
-# Python Language Reference
+##Python Data Types
+
+https://www.w3schools.com/python/python_datatypes.asp
+
+## Python Language Reference
 
 This reference manual describes the syntax and “core semantics” of the language:
 
