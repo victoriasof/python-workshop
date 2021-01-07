@@ -75,7 +75,7 @@ Examples: https://github.com/victoriasof/python-codility-lessons
 
 Helpful youtube channel: https://www.youtube.com/channel/UCjfpGDJ3DV4eERnGaPs8b-A
 
-# Install Python: 
+# Install Python 
 
 https://realpython.com/installing-python/
 
@@ -142,7 +142,7 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial01/
 
 ## Basic steps to create a simple Django blog with Python:
 
-(Don't take them too literally, this is just a summary. Please also refer to documentation)
+(Don't take them too literally, this is just a summary. Please also refer to the above mentioned documentation.)
 
     1. use django-admin to create project -> django-admin startproject myproject
     2. create app -> python3 manage.py startapp blog
