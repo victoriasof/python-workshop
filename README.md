@@ -73,6 +73,7 @@ Difficult exercises: https://app.codility.com/programmers/lessons/1-iterations/
 
 Examples: https://github.com/victoriasof/python-codility-lessons
 
+Helpful youtube channel: https://www.youtube.com/channel/UCjfpGDJ3DV4eERnGaPs8b-A
 
 # Install Python: 
 
