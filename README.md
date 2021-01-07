@@ -132,9 +132,18 @@ https://docs.djangoproject.com/en/3.1/intro/tutorial01/
     10. python3 manage.py runserver to run a development server and check our code
 
 
+In blog folder, create folders:
+
+- templates: add html files (layout.html can be the base from which the other html files will be extended)
+
+- static: add images, bootstrap.min.css, bootstrap.min.js, style.css
+
+
 Example: https://github.com/victoriasof/django-blog
 
 Useful links:
+
+Understanding MVC pattern in Django: https://medium.com/shecodeafrica/understanding-the-mvc-pattern-in-django-edda05b9f43f
 
 Template inheritance: https://docs.djangoproject.com/en/3.1/ref/templates/language/
 
@@ -143,7 +152,6 @@ HTTP Response: https://docs.djangoproject.com/en/3.1/ref/request-response/
 {% csrf_token %} : https://docs.djangoproject.com/en/3.1/ref/csrf/
 
 Download bootstrap CSS and JS: https://getbootstrap.com/docs/4.5/getting-started/download/
-
 
 django-secrets helps you to not commit your secrets to a repo: https://pypi.org/project/django-secrets/
 
