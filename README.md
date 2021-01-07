@@ -119,7 +119,7 @@ To select a specific environment, use the Python: Select Interpreter command fro
 https://code.visualstudio.com/docs/python/environments?fbclid=IwAR3ozSWpq0FxV0w1baD-8WY1Yo2Z0KIEVT2g2HfsmZ3KUXyHx9EAMZJnr2w
 
 
-#### Django Tutorial in Visual Studio Code:
+### Django Tutorial in Visual Studio Code:
 
 Django is a high-level Python framework designed for rapid, secure, and scalable web development. 
 
