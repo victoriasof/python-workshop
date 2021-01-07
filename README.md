@@ -26,6 +26,13 @@ Python is a very simple language, and has a very straightforward syntax. Run thr
 https://www.learnpython.org/
 
 
+# Python Language Reference
+
+This reference manual describes the syntax and “core semantics” of the language:
+
+https://docs.python.org/3/reference/
+
+
 # Jupyter Notebook
 
 The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
