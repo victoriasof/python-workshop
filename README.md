@@ -118,7 +118,7 @@ Django poll app tutorial:
 https://docs.djangoproject.com/en/3.1/intro/tutorial01/
 
 
-# Basic steps to create a simple Django web app with Python:
+# Basic steps to create a simple Django blog with Python:
 
     1. use django-admin to create project -> django-admin startproject myproject
     2. create app -> python3 manage.py startapp blog
