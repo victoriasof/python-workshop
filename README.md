@@ -75,10 +75,6 @@ $ sudo apt-get install python3.8 python3-pip
 Once the installation is complete, you can run Python 3.8 with the python3.8 command and pip with the pip3 command.
 
 
-Install Django:
-
-$ sudo apt install python3-django
-
 
 # Install Visual Studio Code 
 
