@@ -162,7 +162,7 @@ In blog folder, create folders:
 
 Example: https://github.com/victoriasof/django-blog
 
-Useful links:
+### Useful links:
 
 Understanding MVC pattern in Django: https://medium.com/shecodeafrica/understanding-the-mvc-pattern-in-django-edda05b9f43f
 
